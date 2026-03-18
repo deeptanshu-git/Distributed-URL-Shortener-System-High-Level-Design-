@@ -122,6 +122,13 @@ Storage = 120M × 500 bytes = **~60 GB**
 
 ---
 
+## ⚖️ Design Decisions
+
+- Redis chosen for low-latency reads in read-heavy system
+- MongoDB chosen for horizontal scalability and flexible schema
+- Zookeeper used for distributed ID generation to avoid collisions
+- Base62 ensures compact and URL-safe encoding
+
 ## 🔀 Data Partitioning
 
 - Consistent hashing used
