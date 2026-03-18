@@ -52,7 +52,7 @@ Storage = 120M × 500 bytes = **~60 GB**
 
 ## 🏗️ High-Level Architecture
 
-![Architecture](./architecture/hld.png)
+![Architecture](./hld.png)
 
 ### Components:
 - **Load Balancer** → distributes traffic
