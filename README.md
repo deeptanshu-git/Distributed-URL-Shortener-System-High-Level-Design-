@@ -52,7 +52,7 @@ Storage = 120M × 500 bytes = **~60 GB**
 
 ## 🏗️ High-Level Architecture
 
-![Architecture](./hld.png)
+![Architecture](https://raw.githubusercontent.com/deeptanshu-git/Distributed-URL-Shortener-System-High-Level-Design-/main/Architecture/hld.png)
 
 ### Components:
 - **Load Balancer** → distributes traffic
